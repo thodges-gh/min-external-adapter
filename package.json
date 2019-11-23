@@ -1,0 +1,12 @@
+{
+  "name": "min-external-adapter",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "npm install && node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
